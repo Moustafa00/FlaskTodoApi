@@ -40,8 +40,5 @@ Deployed on [Render](https://render.com/). To deploy your own version:
 - **Render**: Cloud platform.
 - **Python**: Programming language.
 
-## License
-MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 [Moustafa Jarjour](https://moustafa00.github.io/)
