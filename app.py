@@ -9,6 +9,10 @@ todos = []
 def get_todos():
     return jsonify(todos)
 
+@app.route('/')
+def home():
+    return jsonify({'message': 'Welcome to the TODO API!'})
+
 @app.route('/todos', methods=['POST'])
 def add_todo():
     todo = request.json.get('task')
