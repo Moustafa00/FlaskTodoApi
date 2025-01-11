@@ -11,7 +11,7 @@ def get_todos():
 
 @app.route('/')
 def home():
-    return jsonify({'message': 'Welcome to the TODO API!'})
+    return render_template('index.html')
 
 @app.route('/todos', methods=['POST'])
 def add_todo():
