@@ -40,26 +40,5 @@ Deployed on [Render](https://render.com/). To deploy your own version:
 - **Render**: Cloud platform.
 - **Python**: Programming language.
 
-## License
-MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 [Moustafa Jarjour](https://moustafa00.github.io/)
-```
-
----
-
-### How to Use
-1. Copy the entire content above.
-2. Create a new file named `README.md` in your repository.
-3. Paste the content into the file.
-4. Save and commit the file to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add README.md"
-   git push origin main
-   ```
-
----
-
-This README is **short, simple, and complete**. Let me know if you need further adjustments! 🚀
